@@ -3,3 +3,4 @@
 logs/*
 .idea/*
 tmp.html
+__pycache__
